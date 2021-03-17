@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SirQuartz
-- 👀 I’m interested in video games, and making software tools.
+- 👀 I’m interested in video games, music, and making software tools.
 - 🌱 I’m currently learning C# and Python.
 - 💞️ I’m looking to collaborate on video games, and open source projects.
 - 📫 Reach me @nicknhuelin@gmail.com
