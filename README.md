@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SirQuartz
 - 👀 I’m interested in video games, music, and making software.
-- 🌱 I’m currently learning C# and Python.
+- 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on video games, and open source projects.
 
 <!---[![SirQuartz' github stats](https://github-readme-stats.vercel.app/api?username=SirQuartz&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
